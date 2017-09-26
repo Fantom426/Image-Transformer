@@ -1,0 +1,45 @@
+C:\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+C:\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Lab1\Lab1\obj\Debug\Lab1.pdb
+E:\Учеба\Нейронные сети\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\Учеба\Нейронные сети\Lab1\Lab1\bin\Debug\Lab1.exe
+E:\Учеба\Нейронные сети\Lab1\Lab1\bin\Debug\Lab1.pdb
+E:\Учеба\Нейронные сети\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+E:\Учеба\Нейронные сети\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+E:\Учеба\Нейронные сети\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+E:\Учеба\Нейронные сети\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+E:\Учеба\Нейронные сети\Lab1\Lab1\obj\Debug\Lab1.exe
+E:\Учеба\Нейронные сети\Lab1\Lab1\obj\Debug\Lab1.pdb
+H:\Учеба\Нейронные сети\Lab1\Lab1\bin\Debug\Lab1.exe.config
+H:\Учеба\Нейронные сети\Lab1\Lab1\obj\Debug\Lab1.exe
+H:\Учеба\Нейронные сети\Lab1\Lab1\obj\Debug\Lab1.pdb
+H:\Учеба\Нейронные сети\Lab1\Lab1\bin\Debug\Lab1.exe
+H:\Учеба\Нейронные сети\Lab1\Lab1\bin\Debug\Lab1.pdb
+H:\Учеба\Нейронные сети\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+H:\Учеба\Нейронные сети\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+H:\Учеба\Нейронные сети\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+H:\Учеба\Нейронные сети\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+C:\Users\Dell 3537\Documents\Флэшка\Учеба\Нейронные сети\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Dell 3537\Documents\Флэшка\Учеба\Нейронные сети\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Dell 3537\Documents\Флэшка\Учеба\Нейронные сети\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Dell 3537\Documents\Флэшка\Учеба\Нейронные сети\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Dell 3537\Documents\Флэшка\Учеба\Нейронные сети\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Dell 3537\Documents\Флэшка\Учеба\Нейронные сети\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Dell 3537\Documents\Флэшка\Учеба\Нейронные сети\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Dell 3537\Documents\Флэшка\Учеба\Нейронные сети\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Dell 3537\Documents\Флэшка\Учеба\Нейронные сети\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+C:\NN\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\NN\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\NN\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\NN\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\NN\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\NN\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\NN\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\NN\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\NN\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
